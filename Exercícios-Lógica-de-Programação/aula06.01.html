@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Logica de Programação Javascript</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Lógicade Programação com Javascript</h1>
+
+        <div id="output"></div>
+
+        <script>
+
+            var produtos = new Array()
+
+            produtos.push("carne","leite","ovos","farinha", "açucar")
+
+            var output = document.querySelector('#output')
+
+            var msg = ''
+            for(var i = 0; i<produtos.length; i++){
+                msg += produtos[i] + "<br>";
+
+                output.innerHTML = msg;
+            }
+        </script>
+
+    </body>
+</html>

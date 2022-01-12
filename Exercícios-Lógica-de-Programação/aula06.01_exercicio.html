@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Logica de Programação Javascript</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Lógicade Programação com Javascript</h1>
+
+        <script>
+             
+             var dias = new Array('Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sabado');
+
+            var hoje = new Date(); // retorna Tue Jan 11 2022 17:51:06 GMT-0300 (Horário Padrão de Brasília)
+            
+            var diaSemana = hoje.getDay(); //retorna o dia da semana
+
+            /*
+                0 - domingo;
+                1 - segunda;
+                ...
+                6 - sabado;
+            */
+
+
+            alert("Bem vindo hoje é " + dias[diaSemana])
+
+        </script>
+    </body>
+</html>

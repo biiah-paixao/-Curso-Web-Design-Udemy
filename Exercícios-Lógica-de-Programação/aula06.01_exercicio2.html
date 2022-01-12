@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Logica de Programação Javascript</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <h1>Lógicade Programação com Javascript</h1>
+
+    <div id="output"></div>
+
+    <script>
+        var arr = new Array(25, 30, 45, 28, 0, 12, 78, 64);
+
+        var soma = 0;
+        var pares = '';
+
+        var output = document.querySelector('#output')
+
+        for (var i = 0; i < arr.length; i++) {
+            if( !isNaN(arr[i]) && arr[i] % 2 == 0) {
+                pares += arr[i] + " + ";
+                soma += arr[i];
+
+            }
+
+        }
+
+        alert(pares + " = " + soma)
+        output.innerHTML = pares + " = " + soma;
+
+    </script>
+
+
+</body>
+
+</html>

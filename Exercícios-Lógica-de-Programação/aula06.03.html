@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Logica de Programação Javascript</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Lógicade Programação com Javascript</h1>
+
+        <div id="output"></div>
+        <script>
+
+
+            var produtos = [
+                {'nome': 'lapis', 'preco': 1.2, 'estoque': 10},
+                {'nome': 'caneta', 'preco': 2, 'estoque': 35},
+                {'nome': 'borracha', 'preco': 0.6, 'estoque': 15}];
+
+            var msg = '';
+
+            for( var i = 0; i <produtos.length; i++){
+                console.log(produtos[i])
+                //console.log(produtos[i].nome) --mostra apenas o atributo nome do objeto
+            }
+
+            document.querySelector('#output').innerHTML = msg;
+
+        </script>
+    </body>
+</html>

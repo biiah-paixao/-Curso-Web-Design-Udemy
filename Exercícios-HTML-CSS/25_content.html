@@ -1,0 +1,158 @@
+<!doctype html>
+<!-- doctype informa ao agente de usuario a versão do html que deve ser renderizada-->
+<html lang="pt-br">
+
+<head>
+    <title> pagina de exemplo estrutura basica </title>
+    <meta charset="utf-8">
+    <meta name="author" content="Daniel">
+    <meta name="description" content="descrição bacanuda">
+    <meta name="keywords" content="html5, tecnologia">
+
+    <style>
+        div {
+            border: 3px solid red;
+            padding: 25px;
+            position: relative;
+            margin: 25px;
+        }
+
+        div:before {
+            content: "before: ";
+            background: #ccc;
+        }
+
+        div:after {
+            content: "";
+            background: red;
+            width: 25px;
+            height: 25px;
+            display: inline-block;
+            position: absolute;
+            bottom: 0;
+            right: 0;
+        }
+
+        address {
+            font-style: normal;
+            font-size: 20px;
+            font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+        }
+
+        address p{
+            display: flex;
+            align-items: center;
+        }
+
+        p[id="endereço"]::before{
+            content: "";
+            background-image: url('./casa.png');
+            background-size: 100% 100%;
+            width: 30px;
+            height: 30px;
+            display: inline-block;
+            margin: 1%;
+        }
+
+        p[id="telefone"]::before{
+            content: "";
+            background-image: url('./telefone.png');
+            background-size: 100% 100%;
+            width: 30px;
+            height: 30px;
+            display: inline-block;
+            margin: 1%;
+        }
+        
+        p[id="email"]::before{
+            content: "";
+            background-image: url('./email.png');
+            background-size: 100% 100%;
+            width: 30px;
+            height: 30px;
+            display: inline-block;
+            margin: 1%;
+        }
+
+        address p:last-child:before {
+            content: "";
+            background-image: url('./casa.png');
+            background-size: 100% 100%;
+            width: 30px;
+            height: 30px;
+            display: inline-block;
+            margin: 1%;
+        }*
+
+        /*address::before {
+            content: "";
+            background-image: url('./casa.png');
+            background-size: 100% 100%;
+            width: 30px;
+            height: 30px;
+            display: inline-block;
+            margin: 1%;
+        }*/
+
+        .hidden {
+            width: 0;
+            height: 0;
+            overflow: hidden;
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div> texto principal da div</div>
+
+    <article>
+        <p> antes do titulo</p>
+        <h3>
+            titulo
+        </h3>
+        <p> paragrafo <a href="#">apenas um link com <b>negrito</b></a></p>
+        <p> paragrafo <a href="#">apenas um link com <b>negrito</b></a></p>
+        <p> paragrafo <a href="#">apenas um link com <b>negrito</b></a></p>
+    </article>
+
+    <ul>
+        <li><a href="#">link falso</a></li>
+        <li><a href="#">link falso</a></li>
+        <li><a href="http://serfrontend.com" target="_blank">link externo</a></li>
+        <li><a href="http://serfrontend.com/qq.pdf">link externo</a></li>
+        <li><a href="23_transition.html" title="veja exercicio anterior">link interno</a></li>
+    </ul>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <address>
+        <p id="endereço">
+            <span class="hidden">Endereço: </span>
+            Rua Carlos Manuel de Oliveira
+        </p>
+        <p id="telefone">
+            <span class="hidden">Telefone: </span>
+            (13) 991542233
+        </p>
+        <p id="email">
+            <span class="hidden">E-mail</span>
+            email@server.com
+        </p>
+
+        <p>
+            <span class="hidden">E-mail</span>
+            email@server.com
+        </p>
+
+    </address>
+
+</body>
+
+</html>

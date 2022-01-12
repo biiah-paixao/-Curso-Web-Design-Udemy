@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Logica de Programação Javascript</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <h1>Lógicade Programação com Javascript</h1>
+
+    <div id="output"></div>
+
+    <button onclick=produto1.comprar()>comprar</button>
+
+    <script>
+
+        var produto1 = new Object();
+        produto1.nome = "lapis"
+        produto1.preco = 2;
+        produto1.estoque = 20;
+
+        /* --COMPRAR UM ITEM--
+        produto1.comprar = function(){
+            console.log("comprou lapis");
+            this.estoque--;
+            console.log(this.estoque);
+        }*/
+
+
+
+        // --COMPRAR POR QUANTIDADE--
+        produto1.comprar = function(qtd) {
+
+            var qtd = prompt("Digite a quantidade que deseja comprar")
+            qtd = parseInt(qtd)
+
+            console.log("comprou lapis");
+            if (qtd == undefined) {
+                this.estoque--;
+            } else {
+                this.estoque = this.estoque - qtd;
+            }
+
+            console.log(this.estoque);
+        }
+
+
+
+        var output = document.querySelector('#output')
+
+        var msg = '';
+
+        msg += "Nome: " + produto1.nome + '<br>'
+        msg += "Preço: " + produto1.preco + '<br>'
+        msg += "Estoque: " + produto1.estoque + '<br>'
+
+        output.innerHTML = msg;
+
+    </script>
+</body>
+
+</html>
