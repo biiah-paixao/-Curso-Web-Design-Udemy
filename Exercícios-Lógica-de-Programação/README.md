@@ -1,169 +1,63 @@
-[00_ola_mundo.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/00_ola_mundo.html)
+# Guia das Aulas
 
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
+[Aula base]() -
 
-4 months ago
+[Aula 02.01](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.01.html) - Olá Mundo e Variaveis
 
+[Aula 02.02](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.02.html) - Conversão entre tipos
 
+[Aula 02.02_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.02_exercicio.html)
 
-[01_variaveis.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/01_variaveis.html)
+[Aula 02.03](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.03.html) -  operadores_aritmeticos
 
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
+[Aula 02.03_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.03.html)
 
-4 months ago
+[Aula 02.04](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.04.html) - operadores_de_comparação
 
+[Aula 02.05](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.05.html) - condicionais
 
+[Aula 02.05_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.05_exercicio.html)
 
-[02_conversão_entre_tipos.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/02_conversão_entre_tipos.html)
+[Aula 02.06](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.06.html) - operadores_logicos
 
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
+[Aula 02.06_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.06_exercicio.html)
 
-4 months ago
+[Aula 02.06_exercicio2](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.06_exercicio2.html)
 
+[Aula 02.07](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula02.07.html) - switch
 
+[Aula 03.01](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula03.01.html) - estrutura_de_repetição
+ 
+[Aula 03.01_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula03.01_exercicio.html)
 
-[03_operadores_aritmeticos.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/03_operadores_aritmeticos.html)
+[Aula 03.01_exercicio1](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula03.01_exercicio1.html)
 
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
+[Aula 03.01_exercicio2](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula03.01_exercicio2.html)
 
-4 months ago
+[Aula 04.01](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula04.01.html) - tipos_de_loop
 
+[Aula 04.01_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula04.01_exercicio.html)
 
+[Aula 04.02](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula04.02.html) - insercção_de_conteudo
 
-[04_operadores_de_comparação.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/04_operadores_de_comparação.html)
+[Aula 04.02_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula04.02_exercicio.html)
 
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
+[Aula 04.03](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula04.03.html) - funções_e_eventos
 
-4 months ago
+[Aula 04.03_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula04.03_exercicio.html)
 
+[Aula 05.01](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula05.01.html) - funções_com_parametros
 
+[Aula 05.01_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula05.01_exercicio.html)
 
-[05_condicionais.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/05_condicionais.html)
+[Aula 06.01](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula06.01.html) - funções_que_retornan_valores
 
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
+[Aula 06.01_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula06.01_exercicio.html)
 
-4 months ago
+[Aula 06.01_exercicio2](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula06.01_exercicio2.html)
 
+[Aula 06.02](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula06.02.html) - try_catch
 
+[Aula 06.03](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula06.03.html) - Arrays
 
-[06_operadores_logicos.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/06_operadores_logicos.html)
-
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
-
-4 months ago
-
-
-
-[07_switch.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/07_switch.html)
-
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
-
-4 months ago
-
-
-
-[08_estrutura_de_repetição.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/08_estrutura_de_repetição.html)
-
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
-
-4 months ago
-
-
-
-[09_tipos_de_loop.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/09_tipos_de_loop.html)
-
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
-
-4 months ago
-
-
-
-[101_exercicio.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/101_exercicio.html)
-
-[Exercicios de Lógica](https://github.com/alesamsil/CursoWebDesignUdemy/commit/49f5ac05ccaaf84710f9e0a3894573d7f05220ec)
-
-4 months ago
-
-
-
-[102_exercicio.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/102_exercicio.html)
-
-[Exercicios de Lógica](https://github.com/alesamsil/CursoWebDesignUdemy/commit/49f5ac05ccaaf84710f9e0a3894573d7f05220ec)
-
-4 months ago
-
-
-
-[103_exercicio.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/103_exercicio.html)
-
-[Exercicios de Lógica](https://github.com/alesamsil/CursoWebDesignUdemy/commit/49f5ac05ccaaf84710f9e0a3894573d7f05220ec)
-
-4 months ago
-
-
-
-[104_exercicio.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/104_exercicio.html)
-
-[Exercicios de Lógica](https://github.com/alesamsil/CursoWebDesignUdemy/commit/49f5ac05ccaaf84710f9e0a3894573d7f05220ec)
-
-4 months ago
-
-
-
-[105_exercicio.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/105_exercicio.html)
-
-[Exercicios de Lógica](https://github.com/alesamsil/CursoWebDesignUdemy/commit/49f5ac05ccaaf84710f9e0a3894573d7f05220ec)
-
-4 months ago
-
-
-
-[106_execicio.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/106_execicio.html)
-
-[Exercicios de Lógica](https://github.com/alesamsil/CursoWebDesignUdemy/commit/49f5ac05ccaaf84710f9e0a3894573d7f05220ec)
-
-4 months ago
-
-
-
-[10_insercção_de_conteudo.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/10_insercção_de_conteudo.html)
-
-[Exercicios](https://github.com/alesamsil/CursoWebDesignUdemy/commit/e477de1432cf1a7506cd25aadce2141e12fe0c1c)
-
-4 months ago
-
-
-
-[11_funções_e_eventos.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/11_funções_e_eventos.html)
-
-[exercicio](https://github.com/alesamsil/CursoWebDesignUdemy/commit/c8ee625e7e5364d8fba9ff74187c708ee885b854)
-
-4 months ago
-
-
-
-[12_funções_com_parametros.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/12_funções_com_parametros.html)
-
-[Exercicio com parametros](https://github.com/alesamsil/CursoWebDesignUdemy/commit/05a9eee9c4ff87df0f01e123c4c9d01c7ab90dd6)
-
-4 months ago
-
-
-
-[13_funções_que_retornan_valores.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/13_funções_que_retornan_valores.html)
-
-[Try catch](https://github.com/alesamsil/CursoWebDesignUdemy/commit/765d40efd43e6b37d406766793d5c245eb8db949)
-
-4 months ago
-
-
-
-[14_try_catch.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/14_try_catch.html)
-
-[Try catch](https://github.com/alesamsil/CursoWebDesignUdemy/commit/765d40efd43e6b37d406766793d5c245eb8db949)
-
-4 months ago
-
-
-
-[15_Arrays.html](https://github.com/alesamsil/CursoWebDesignUdemy/blob/main/Exercícios-Lógica-de-Programação/15_Arrays.html)
+[Aula 06.03_exercicio](https://github.com/biiah-paixao/Curso-Web-Design-Udemy/blob/main/Exerc%C3%ADcios-L%C3%B3gica-de-Programa%C3%A7%C3%A3o/aula06.03_exercicio.html)
