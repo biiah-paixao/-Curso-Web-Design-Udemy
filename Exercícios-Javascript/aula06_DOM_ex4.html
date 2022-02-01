@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Curso Javascript Completo 2018</title>
+    <meta charset="utf-8">
+
+
+
+</head>
+
+<body>
+    <h1>Curso Javascript Completo 2018</h1>
+
+
+    <input type="text" id="txtNome" value="digite">
+    <!--readonly desativa invisivelmente - apenas leitura
+        disable  desativa visivelmente -->
+    
+    <div id="msg"></div>
+
+    <script>
+
+        var txt = document.getElementById('txtNome')
+
+
+        var nome = "Beatriz ";
+        var sobrenome = "Paixão Souza Peron"
+
+        txt.value = txt.innerHTML = nome + sobrenome;
+
+        //txt.disabled = true;
+        txt.readOnly = true;
+
+
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+ <!doctype html>
+<html>
+    <head>
+        <title>Curso Javascript Completo 2018</title>
+        <meta charset="utf-8">
+        
+        <link href="css/bootstrap.css" rel="stylesheet">
+        <link href="css/bootstrap-theme.css" rel="stylesheet">
+        
+        <script src="beluga.js"></script>
+
+    </head>
+    <body>
+        <div class="container">
+            <h1>Curso Javascript Completo 2018</h1>
+        </div>
+        
+
+
+        <script>
+
+            function Nome(nome, sobrenome){
+                this.nome = nome || undefined,
+                this.sobrenome = sobrenome || undefined
+            }
+
+            var obj1 = new Nome("Beatriz","Paixão") 
+            var obj2 = new Nome("Alexandre","Souza") 
+            var obj3 = new Nome("Claudio","Belo") 
+
+
+
+
+            function mostrarNome(objeto){
+                var nCompleto = objeto.nome + " " + objeto.sobrenome
+                console.log(nCompleto)
+            }
+
+            mostrarNome(obj1)
+            mostrarNome(obj2)
+            mostrarNome(obj3)
+
+
+        </script>
+        
+    </body>
+</html>

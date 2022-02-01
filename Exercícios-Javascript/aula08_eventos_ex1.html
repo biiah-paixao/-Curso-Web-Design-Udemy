@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Curso Javascript Completo 2018</title>
+    <meta charset="utf-8">
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>Curso Javascript Completo 2018</h1>
+
+        <form action="#">
+            <label for="email">Usuario</label>
+            <input type="email" name="email" id="email">
+
+            <label for="senha">Senha</label>
+            <input type="password" name="password" id="senha">
+
+            <input type="submit" value="ok">
+        </form>
+
+
+    </div>
+
+    <script>
+
+        (function(){
+            'use strict'
+
+            var usuario = document.getElementById('email');
+            var senha = document.getElementById('senha');
+
+            var submit = document.querySelector('input[type="submit"]');
+
+
+            submit.addEventListener('click', function(){
+            if(senha.value == '' || usuario.value == ''){
+                alert('campo obrigatório')
+            }
+            else{
+                alert('Formulário enviado com sucesso')
+            }
+        })
+        })()
+
+        
+
+        /*submit.addEventListener('click', function(){
+            alert('Formulário enviado com sucesso')
+        })*/
+
+        
+
+        
+        
+
+
+    </script>
+</body>
+
+
+</html>

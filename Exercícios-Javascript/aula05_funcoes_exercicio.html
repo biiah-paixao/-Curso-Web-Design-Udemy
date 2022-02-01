@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Curso Javascript Completo 2018</title>
+        <meta charset="utf-8">
+        
+        <script>
+
+            (function(){
+                'use strict';
+
+                function calcularMedia(){
+                    //console.log(arguments)
+                    var soma = 0;
+                    var result = 0;
+                    var x = 0;
+
+                    //while(arguments[x]){ se for 0 vai ser false e vai sair do loop
+                    while(typeof arguments[x] === 'number'){
+                        soma += arguments[x];
+                        x++
+                    }
+                    result = soma / arguments.length;
+                    console.log('result: ', result);
+
+                }
+                //calcularMedia(2,4)//3
+
+                calcularMedia(1,1,2,3,5)//2,4
+            })()
+
+
+
+
+            /*(function(){
+                'use strict';
+                
+                var isValid = false;
+                console.log(isValid);
+                
+                function somar(){
+                    console.log(arguments);
+                    var result = 0;
+                    var x = 0;
+                    
+                    while(arguments[x]){
+                        //result = result + arguments[x];
+                        result += arguments[x];
+                        //x = x + 1;
+                        x++;
+                    }
+                    console.log('result: ', result);
+                }
+                
+                somar(20, 20, 10, 5, 5, 15);
+            })();
+            */
+            
+
+            
+            
+            
+        </script>
+        
+    </head>
+    <body>
+        <h1>Curso Javascript Completo 2018</h1>
+        
+         
+        
+    </body>
+</html>
