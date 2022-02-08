@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Logica de Programação Javascript</title>
+    <meta charset="utf-8">
+
+
+</head>
+
+<body>
+    <h1>Javascript Completo</h1>
+
+    <input type="text" id="cronometro">
+    <button id="iniciar">Iniciar</button>
+    <button id="pausar">Pausar</button>
+    <button id="parar">Parar</button>
+
+    <script>
+
+        (function () {
+
+            var $cronometro = document.querySelector('#cronometro');
+            var $iniciar = document.querySelector('#iniciar');
+            var $pausar = document.querySelector('#pausar');
+            var $parar = document.querySelector('#parar');
+
+
+                var date = new Date();
+
+                date.setHours(00);
+                date.setMinutes(00);
+                date.setSeconds(00);
+
+                var h = date.getHours();
+                var m = date.getMinutes();
+                var s = date.getSeconds();
+
+                h = h < 10 ? '0' + h : h;
+                m = m < 10 ? '0' + m : m
+                s = s < 10 ? '0' + s : s
+
+
+
+            $cronometro.value = `${h}:${m}:${s}`;
+
+            $iniciar.addEventListener('click', iniciar)
+            $pausar.addEventListener('click', pausar)
+            $parar.addEventListener('click', parar)
+
+            function iniciar() {
+                setInterval(function(){
+                    date.setSeconds(s++);
+                }, 1000)
+
+            }
+
+            function pausar(){
+
+            }
+
+            function parar(){
+                
+            }
+
+
+        })()
+
+    </script>
+</body>
+
+</html>

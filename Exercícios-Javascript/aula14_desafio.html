@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Curso Javascript Completo 2018</title>
+    <meta charset="utf-8">
+
+    <script>
+
+        (function () {
+            var data = new Date();
+
+            function formatDate(data) {
+                var dia = data.getDate() < 10 ? '0' + data.getDate() : data.getDate()
+                var mes = (data.getMonth() + 1) < 10 ? '0' + data.getMonth() : data.getMonth()
+                var ano = data.getFullYear()
+
+                /*if((dia<10 && mes<10) || (dia<10 || mes<10)){
+                    return `0${dia}/0${mes}/${ano}`
+                }*/
+                return `${dia}/${mes}/${ano}`
+            }
+
+            console.log(formatDate(data))
+
+
+        })()
+
+
+    </script>
+
+</head>
+
+<body>
+    <h1>Curso Javascript Completo 2018</h1>
+
+
+</body>
+
+</html>

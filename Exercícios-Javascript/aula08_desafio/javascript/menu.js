@@ -6,6 +6,7 @@
 
     var ariaControl = $btn.getAttribute('aria-controls');
 
+    
     var $menu = document.getElementById(ariaControl)
 
     $html.classList.remove('no-js');
